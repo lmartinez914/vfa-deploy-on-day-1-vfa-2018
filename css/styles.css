@@ -346,7 +346,12 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
-
+#acacia-galle-card {
+  background-image: url("https://i.imgur.com/swtNseU.jpg");
+}
+#acacia-galle-cover {
+  background-image: url(http://detroit-infos.com/wp-content/grand-media/image/Landscape_of_Detroit.jpg);
+}
 /* TODO: Add your partner's image styles
 
 #firstname-lastname-cover {
